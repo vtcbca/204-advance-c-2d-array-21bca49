@@ -1,4 +1,4 @@
-/* Serching  String In maintion It's Position
+/* Serching  String In mention It's Position
  */
 #include<stdio.h>
 #include<conio.h>
